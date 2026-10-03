@@ -55,6 +55,8 @@
 		691BD25A306692F60002ADB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		691BD25B306692F60002ADB1 /* X3FThumbnail.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = X3FThumbnail.entitlements; sourceTree = "<group>"; };
 		691BD263306694BB0002ADB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		69BAF4933071AF7E00D806EE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		69BAF4943071B00000D806EE /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,8 @@
 		691BD232306691D00002ADB1 = {
 			isa = PBXGroup;
 			children = (
+				69BAF4933071AF7E00D806EE /* README.md */,
+				69BAF4943071B00000D806EE /* LICENSE.md */,
 				691BD23D306691D00002ADB1 /* X3FQuickLook */,
 				691BD257306692F60002ADB1 /* X3FThumbnail */,
 				691BD252306692F60002ADB1 /* Frameworks */,
